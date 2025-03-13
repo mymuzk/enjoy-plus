@@ -9,7 +9,7 @@
     ],
     "include": []
   },
-  "miniprogramRoot": "miniprogram/",
+  "miniprogramRoot": "src/",
   "compileType": "miniprogram",
   "projectname": "享+社区",
   "setting": {
@@ -20,7 +20,7 @@
     "packNpmRelationList": [
       {
         "packageJsonPath": "./package.json",
-        "miniprogramNpmDistDir": "./miniprogram"
+        "miniprogramNpmDistDir": "./src"
       }
     ],
     "babelSetting": {
@@ -50,7 +50,7 @@
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
   "condition": {},
-  "appid": "wx88efc5bd3db8d0ed",
+  "appid": "wxcbb0194a8a602a2d",
   "libVersion": "2.26.0",
   "editorSetting": {
     "tabIndent": "insertSpaces",
